@@ -57,7 +57,7 @@ GitFlowX is built with a **"Premium-First"** aesthetic:
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Rakshitha-YK/Patient-Records-App.git
+git clone 
 cd gitflowx-mern
 
 # Install backend dependencies
